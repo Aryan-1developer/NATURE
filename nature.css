@@ -1,0 +1,43 @@
+/* Theme Name: Nature */
+ body{
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 0PX;
+    background-color: #e0f7fa;
+    color: #004d40;
+}
+header {
+    background-color: #00695c;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #004d40;
+}
+nav a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+nav a:hover {
+    background-color: #00796b;
+}
+main {
+    padding: 20px;
+}
+footer {
+    background-color: #00695c;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+#ass{
+    text-align: center;
+}
